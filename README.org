@@ -5,6 +5,6 @@ Nyxt - the hacker's browser.
 
 |---------+------------------------------------------------|
 | source  | git:https://github.com/atlas-engineer/nyxt.git |
-| commit  | c4c66e4ab                                      |
+| commit  | 175f51da4                                      |
 | systems | nyxt                                           |
 |---------+------------------------------------------------|
