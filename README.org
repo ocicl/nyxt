@@ -8,3 +8,4 @@ Nyxt - the hacker's browser.
 | commit  | aeb6c72cf                                      |
 | systems | nyxt                                           |
 |---------+------------------------------------------------|
+ 
